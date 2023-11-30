@@ -1,0 +1,5 @@
+*.ipynb_checkpoints
+/Accuracy & loss graphs
+/Models
+/Data
+/Notebooks/TL(imagenet_nasnet_large)(PetroImages_Augmentedx2).ipynb
